@@ -1,0 +1,16 @@
+.advice-button {
+    display: grid;
+    place-content: center;
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 100%;
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    bottom: -28px;
+    cursor: pointer;
+
+}
+
+.advice-button:hover{
+    box-shadow: 0 0 25px 0 hsl(150, 100%, 66%);
+}

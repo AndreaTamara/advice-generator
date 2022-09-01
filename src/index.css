@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family: 'Manrope', sans-serif;
+  box-sizing: border-box;
+  font-size: 32px;
+ 
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: hsl(218, 23%, 16%);
+}
